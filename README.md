@@ -1,7 +1,7 @@
 # PigGame
 
 Deployed version:
-https://tino73.github.io/PigGame/
+https://altinthaqi.github.io/PigGame/
 
 A fun and easy game to play with your friends.
 The game consists of two players, player1 and player2.
